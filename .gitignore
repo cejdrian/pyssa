@@ -1,0 +1,11 @@
+# Catch any __pycache__ folder at any depth in the project
+**/__pycache__/
+*.pyc
+
+# Ignore local virtual environments
+.venv/
+env/
+venv/
+
+# Ignore Mac system files
+.DS_Store
