@@ -1,6 +1,6 @@
-for more information on this project, which, go to:
+for more information on this project, go to:
 
-"https://github.com/Sparticle62ops/pssa?tab=GPL-3.0-1-ov-file"
+https://github.com/Sparticle62ops/pssa?tab=GPL-3.0-1-ov-file
 
 This is a new development project for PSSA in Python, which I'll keep a copy of in this personal repo solely for documentation and my own progress.
 
